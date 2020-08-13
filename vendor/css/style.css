@@ -1,0 +1,16 @@
+body{
+	font-family: cambira;
+	margin: 0;
+	padding: 0;
+	background-color: rgba(83, 82, 237, 0.3);
+}
+.element-container{
+	margin: auto;
+}
+.element-container .group-cell{
+	border : 1px solid black;
+	border-radius : 5px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bolder;
+}
